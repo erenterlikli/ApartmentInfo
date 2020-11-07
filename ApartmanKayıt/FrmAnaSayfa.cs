@@ -25,22 +25,27 @@ namespace ApartmanKayıt
 
         private void simpleButton1_Click(object sender, EventArgs e)
         {
-
+            FrmKayitlar kayit = new FrmKayitlar();
+            kayit.Show();
+            this.Hide();
         }
 
         private void simpleButton3_Click(object sender, EventArgs e)
         {
-
+            FrmBorclar borc = new FrmBorclar();
+            borc.Show();
+            this.Hide();
         }
 
         private void simpleButton4_Click(object sender, EventArgs e)
         {
-
+            FrmFoto foto = new FrmFoto();
+            foto.Show();
         }
 
         private void simpleButton5_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
 
         private void BtnGiris_Click(object sender, EventArgs e)
@@ -52,7 +57,7 @@ namespace ApartmanKayıt
 
         private void simpleButton2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Öğrenci Apartı için yapılmış olan kayıt otomasyonudur. DevExpress ve C# kullanılarak yapılmıştır. Kasım- 2020");
         }
 
         private void labelControl1_Click(object sender, EventArgs e)

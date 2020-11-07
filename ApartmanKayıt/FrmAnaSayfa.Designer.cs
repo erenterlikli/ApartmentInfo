@@ -51,7 +51,7 @@
             this.BtnDaire.Appearance.Options.UseBackColor = true;
             this.BtnDaire.Appearance.Options.UseFont = true;
             this.BtnDaire.Appearance.Options.UseForeColor = true;
-            this.BtnDaire.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnGiris.ImageOptions.Image")));
+            this.BtnDaire.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnDaire.ImageOptions.Image")));
             this.BtnDaire.Location = new System.Drawing.Point(26, 88);
             this.BtnDaire.Name = "BtnDaire";
             this.BtnDaire.Size = new System.Drawing.Size(198, 43);
@@ -69,7 +69,7 @@
             this.BtnKayıtlar.Appearance.Options.UseBackColor = true;
             this.BtnKayıtlar.Appearance.Options.UseFont = true;
             this.BtnKayıtlar.Appearance.Options.UseForeColor = true;
-            this.BtnKayıtlar.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.BtnKayıtlar.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnKayıtlar.ImageOptions.Image")));
             this.BtnKayıtlar.Location = new System.Drawing.Point(26, 171);
             this.BtnKayıtlar.Name = "BtnKayıtlar";
             this.BtnKayıtlar.Size = new System.Drawing.Size(198, 43);
@@ -85,7 +85,7 @@
             this.BtnHakkımızda.Appearance.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.BtnHakkımızda.Appearance.Options.UseBackColor = true;
             this.BtnHakkımızda.Appearance.Options.UseFont = true;
-            this.BtnHakkımızda.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton2.ImageOptions.Image")));
+            this.BtnHakkımızda.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnHakkımızda.ImageOptions.Image")));
             this.BtnHakkımızda.Location = new System.Drawing.Point(26, 253);
             this.BtnHakkımızda.Name = "BtnHakkımızda";
             this.BtnHakkımızda.Size = new System.Drawing.Size(198, 43);
@@ -101,7 +101,7 @@
             this.BtnBorc.Appearance.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.BtnBorc.Appearance.Options.UseBackColor = true;
             this.BtnBorc.Appearance.Options.UseFont = true;
-            this.BtnBorc.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton3.ImageOptions.Image")));
+            this.BtnBorc.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnBorc.ImageOptions.Image")));
             this.BtnBorc.Location = new System.Drawing.Point(354, 88);
             this.BtnBorc.Name = "BtnBorc";
             this.BtnBorc.Size = new System.Drawing.Size(198, 43);
@@ -117,7 +117,7 @@
             this.BtnFoto.Appearance.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.BtnFoto.Appearance.Options.UseBackColor = true;
             this.BtnFoto.Appearance.Options.UseFont = true;
-            this.BtnFoto.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton4.ImageOptions.Image")));
+            this.BtnFoto.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnFoto.ImageOptions.Image")));
             this.BtnFoto.Location = new System.Drawing.Point(354, 171);
             this.BtnFoto.Name = "BtnFoto";
             this.BtnFoto.Size = new System.Drawing.Size(198, 43);
@@ -133,7 +133,7 @@
             this.BtnCikis.Appearance.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.BtnCikis.Appearance.Options.UseBackColor = true;
             this.BtnCikis.Appearance.Options.UseFont = true;
-            this.BtnCikis.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton5.ImageOptions.Image")));
+            this.BtnCikis.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("BtnCikis.ImageOptions.Image")));
             this.BtnCikis.Location = new System.Drawing.Point(354, 253);
             this.BtnCikis.Name = "BtnCikis";
             this.BtnCikis.Size = new System.Drawing.Size(198, 43);
